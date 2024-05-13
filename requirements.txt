@@ -1,0 +1,16 @@
+psycopg2-binary == 2.9.9
+fastapi
+uvicorn
+pydantic
+typing
+sqlalchemy
+passlib
+python-jose
+python-multipart
+aioredis
+redis
+pyjwt
+requests
+uuid
+asyncio
+Pillow
